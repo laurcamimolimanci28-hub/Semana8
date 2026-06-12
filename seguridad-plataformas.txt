@@ -1,0 +1,7 @@
+Escribe 5 prácticas de seguridad que deberían aplicarse en una plataforma digital comunitaria
+
+Autenticación segura mediante contraseñas cifradas.
+Control de acceso por roles para limitar acciones según permisos.
+Validación de entradas para evitar ataques como inyección de código.
+Registro de actividades para auditoría y seguimiento.
+Gestión segura de sesiones con expiración automática por inactividad.

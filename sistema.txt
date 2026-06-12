@@ -1,0 +1,28 @@
+INFORMACIÓN DEL SISTEMA:
+Linux codespaces-33fa0d 6.8.0-1052-azure #58~22.04.1-Ubuntu SMP Thu Mar 26 05:02:21 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+Usuario: codespace
+
+Por qué es útil conocer información del sistema cuando se administra un servidor
+
+Algunos motivos importantes son:
+
+Identificar el sistema operativo y su versión
+En este caso se usa Linux Ubuntu 22.04 con un kernel 6.8.0-1052-azure.
+Esto ayuda a instalar software compatible y aplicar actualizaciones correctas.
+
+Detectar posibles vulnerabilidades
+Conociendo la versión del sistema y del kernel se puede verificar si existen fallos de seguridad conocidos y aplicar parches.
+
+Gestionar recursos y compatibilidad
+La arquitectura x86_64 indica que el servidor utiliza una plataforma de 64 bits, lo que determina qué programas y paquetes pueden instalarse.
+
+Realizar tareas de soporte y diagnóstico
+Cuando ocurre un error, la información del sistema permite a los administradores o equipos de soporte reproducir el problema y encontrar soluciones más rápidamente.
+
+Administrar usuarios y permisos
+Saber que el usuario actual es codespace ayuda a verificar qué permisos tiene, quién está ejecutando comandos y si se requieren privilegios de administrador.
+
+Optimizar el rendimiento
+Conocer el entorno donde corre el servidor facilita ajustar configuraciones, monitorear recursos y mejorar la eficiencia de las aplicaciones.
+
+Conclusión: La información del sistema proporciona una visión general del servidor (sistema operativo, versión, arquitectura y usuario activo), lo que resulta fundamental para la seguridad, el mantenimiento, la resolución de problemas y la administración eficiente de la infraestructuraz
